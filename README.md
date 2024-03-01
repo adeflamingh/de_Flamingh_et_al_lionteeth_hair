@@ -20,4 +20,12 @@ Corresponding authors:
 **Ripan S. Malhi, X: @MalhiRipan, malhi@illinois.edu
 
 ## Code description:
+1_k2.database.download.sh
+Shell script for downloading the NCBI nt database taxonomy and data
+
+2_k2.build.database.sh
+Shell script for building the Kraken2 database using the data downloaded in step 1
+
+3_k2.classify_SE.sh
+Shell script for classifying the fastq reads (Single End in this case) using the database created in step 2
 
