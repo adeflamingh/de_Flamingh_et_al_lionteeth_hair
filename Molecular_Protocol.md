@@ -46,9 +46,12 @@ The information below describes the protocol for extracting DNA from hair sample
 
 STEP 1: DECONTAMINATION
 1.  For individual hairs 
-    a. Prepare a 3% NaClO solution  
-    b. Soak each hair for 30-45s in the 30% NaClO solution (do not extend soak period as it will lead to the hair dissolving)
-    c. Rinse three times with diH20  
+    a. Prepare a 3% NaClO solution (3% NaClO = household bleach like Clorox):
+    	Add 30ml of the 3% NaClO to 70ml molecular grade water (= 30% diluted NaClO)
+    b. Add ~5ml of the 30% diluted NaClO to a small weigh boat (one weigh boat per hair)
+    c. Also prepare a weigh boat with ~5ml molecular grade water so that hair can be immediately transfered after decontamination
+    b. Soak each hair for 30s in the 30% diluted NaClO (do not extend soak period as it will lead to the hair dissolving)
+    c. Rinse three times with diH20 in (new weigh boat) 
     d. Rinse once with isopropanol  
     e. Air dry for at least 5 mins
 
