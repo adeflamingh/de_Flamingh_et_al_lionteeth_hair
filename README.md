@@ -33,6 +33,6 @@ Shell script for classifying the fastq reads (Single End in this case) using the
 4.Molecular_Protocol.md 
 Molecular protocol used to extract DNA from hair
 
-5. wildebeest_oryx_comparison.md
+5.Wildebeest_oryx_comparison.md
 Methodological approach used to compare reads originating from oryx and wildebeest
 
